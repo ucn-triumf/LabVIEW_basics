@@ -1,3 +1,7 @@
+# Data
+LabVIEW2021/data/*
+
+
 # Libraries
 *.lvlibp
 *.llb
